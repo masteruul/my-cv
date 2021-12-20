@@ -9,7 +9,7 @@ import Introduction from '../components/introduction';
 import Skills from '../components/skills';
 import Languages from '../components/languages';
 import Contact from '../components/contact';
-import Awards from '../components/awards';
+// import Awards from '../components/awards';
 import { GetStaticProps } from 'next';
 
 const styles = (
@@ -17,10 +17,10 @@ const styles = (
         @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap');
         body, h1, h2, h3, h4, h5, h6 {
             border: 0;
-            padding: 0; 
+            padding: 0;
             margin: 0;
         }
-        
+
         body, h2 {
             font-family: 'Roboto', sans-serif;
             font-weight: 300;
@@ -54,7 +54,7 @@ const styles = (
         p {
             max-width: 800px;
         }
-      
+
         .Resume {
             display: flex;
             flex-direction: column;
@@ -77,7 +77,7 @@ const styles = (
             flex: 1 100px;
             margin: 0 1rem;
         }
-        
+
     `}</style>
 );
 
@@ -104,7 +104,7 @@ const Resume = () => (
                 <Skills data={data.skills.filter(skill => skill.current)} title="Current Stack" />
                 <Skills data={data.skills.filter(skill => !skill.current)} title="I Have Used" />
                 <Languages data={data.languages} />
-                <Awards data={data.awards} />
+                {/* <Awards data={data.awards} /> */}
                 <Contact data={data.contact} />
             </section>
         </section>
