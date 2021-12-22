@@ -68,7 +68,7 @@ const Resume: IResume = {
         name: "Syamsul Huda",
         avatar: "./images/avatar.jpg",
         location: "Jakarta, Indonesia",
-        description: "Backend Software Engineer with 3+ years of experience developing Golang applications. -- Microservice development and integrations. -- Translating from product requirement to reliable, scalable and rebust backend system. -- High Ownership and Data geek person. -- Ease of learning.",
+        description: "Backend Software Engineer with 3+ years of experience developing Golang applications. -- Microservice development and integrations. -- Translating from product requirement to reliable, scalable and robust backend system. -- High Ownership and Data geek person. -- Ease of learning.",
         position: "Backend Software Engineer @tokopedia"
     },
     experience: [
