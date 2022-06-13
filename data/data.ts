@@ -138,7 +138,7 @@ const Resume: IResume = {
         },
     ],
     education: [
-        { name: 'Telkom University', logo: 'https://i7.pngguru.com/preview/778/473/94/telkom-university-sepuluh-nopember-institute-of-technology-logo-university-of-california-berkeley-awards.jpg', title: 'Computational Science, Bachelor', duration: '2014 - 2018' },
+        { name: 'Telkom University', logo: 'https://tip.telkomuniversity.ac.id/wp-content/uploads/2022/05/3.-Telkom-University-e1652411289288.png', title: 'Computational Science, Bachelor', duration: '2014 - 2018' },
     ],
     skills: [
         { name: 'Golang', icon: 'https://cdn.svgporn.com/logos/gopher.svg', current: true },
