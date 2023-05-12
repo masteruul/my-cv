@@ -177,11 +177,11 @@ const Resume: IResume = {
         }
     ],
     contact: [
-        { name: 'Linkedin', icon: './images/linkedin.png', link: 'https://www.linkedin.com/in/syamsulhudauul/' },
-        { name: 'Github', icon: 'https://cdn.svgporn.com/logos/github-icon.svg', link: 'https://github.com/syamsulhudauul' },
-        { name: 'Twitter', icon: 'https://cdn.svgporn.com/logos/twitter.svg', link: 'https://twitter.com/syamsulhudauul' },
+        { name: 'syamsulhudauul', icon: './images/linkedin.png', link: 'https://www.linkedin.com/in/syamsulhudauul/' },
+        { name: 'syamsulhudauul', icon: 'https://cdn.svgporn.com/logos/github-icon.svg', link: 'https://github.com/syamsulhudauul' },
+        { name: 'syamsulhudauul', icon: 'https://cdn.svgporn.com/logos/twitter.svg', link: 'https://twitter.com/syamsulhudauul' },
         { name: 'syamsulhuda.uul@gmail.com', icon: 'https://cdn.svgporn.com/logos/google-gmail.svg', link: 'mailto:syamsulhuda.uul@gmail.com' },
-        { name: 'Instagram', icon: 'https://cdn.svgporn.com/logos/instagram-icon.svg', link: 'http://instagram.com/syamsulhudauul' },
+        { name: 'syamsulhuda.uul', icon: 'https://cdn.svgporn.com/logos/instagram-icon.svg', link: 'http://instagram.com/syamsulhuda.uul' },
     ]
 };
 
