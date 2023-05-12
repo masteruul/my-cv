@@ -142,18 +142,13 @@ const Resume: IResume = {
     ],
     skills: [
         { name: 'Golang', icon: 'https://cdn.svgporn.com/logos/gopher.svg', current: true },
-        { name: 'Javascript', icon: 'https://cdn.svgporn.com/logos/javascript.svg', current: false },
         { name: 'Postgre', icon: 'https://cdn.svgporn.com/logos/postgresql.svg', current:true },
         { name: 'Redis', icon: 'https://cdn.svgporn.com/logos/redis.svg', current: true },
         { name: 'ElasticSearch', icon: 'https://cdn.svgporn.com/logos/elasticsearch.svg', current: false },
-        { name: 'Reactjs', icon: 'https://cdn.svgporn.com/logos/react.svg', current: false },
         { name: 'GCP', icon: 'https://cdn.svgporn.com/logos/google-cloud.svg', current: true },
         { name: 'AWS', icon: 'https://cdn.svgporn.com/logos/aws.svg', current: false },
-        { name: 'Nodejs', icon: 'https://cdn.svgporn.com/logos/nodejs-icon.svg', current: false },
         { name: 'Git', icon: 'https://cdn.svgporn.com/logos/git-icon.svg', current: true },
         { name: 'Jira', icon: 'https://cdn.svgporn.com/logos/jira.svg', current: true },
-        { name: 'HTML5', icon: 'https://cdn.svgporn.com/logos/html-5.svg', current: false },
-        { name: 'CSS3', icon: 'https://cdn.svgporn.com/logos/css-3.svg', current: false },
     ],
     // awards: [
         // {
@@ -179,9 +174,7 @@ const Resume: IResume = {
     contact: [
         { name: 'syamsulhudauul', icon: './images/linkedin.png', link: 'https://www.linkedin.com/in/syamsulhudauul/' },
         { name: 'syamsulhudauul', icon: 'https://cdn.svgporn.com/logos/github-icon.svg', link: 'https://github.com/syamsulhudauul' },
-        { name: 'syamsulhudauul', icon: 'https://cdn.svgporn.com/logos/twitter.svg', link: 'https://twitter.com/syamsulhudauul' },
-        { name: 'syamsulhuda.uul@gmail.com', icon: 'https://cdn.svgporn.com/logos/google-gmail.svg', link: 'mailto:syamsulhuda.uul@gmail.com' },
-        { name: 'syamsulhuda.uul', icon: 'https://cdn.svgporn.com/logos/instagram-icon.svg', link: 'http://instagram.com/syamsulhuda.uul' },
+        { name: 'syamsulhuda.uul@gmail.com', icon: 'https://cdn.svgporn.com/logos/google-gmail.svg', link: 'mailto:syamsulhuda.uul@gmail.com' }
     ]
 };
 
